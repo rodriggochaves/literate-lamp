@@ -1,6 +1,6 @@
 class NameGenerator
 
   def initialize
-    "Puff"
+    "A very looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo string"
   end
 end
