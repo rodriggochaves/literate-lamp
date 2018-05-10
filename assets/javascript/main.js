@@ -7,6 +7,6 @@ function hello( planet ) {
 }
 
 var world = 10;
-debugger;
+
 world = 12;
 hello( world );
